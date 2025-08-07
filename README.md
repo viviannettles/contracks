@@ -1,4 +1,4 @@
-# 📇 Contact Keeper
+# 📇 ConTracks
 A simple contact tracking app that helps you store and manage detailed contact information 💕  
 Built with love using Python & React 🐍⚛️
 

@@ -1,0 +1,13 @@
+h1 {
+  background-color: #61dafb;
+}
+
+div {
+  background-color: blueviolet;
+  border: 4px solid aquamarine;
+  align-content: center;
+}
+
+div:hover {
+  background-color: darkcyan;
+}
